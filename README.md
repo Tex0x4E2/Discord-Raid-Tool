@@ -1,5 +1,5 @@
 
-<h1 align="center">Discord Raid Tool</h1>
+<h1 align="center">Discord Raid Tool [Debug]</h1>
 
 # Features
 
