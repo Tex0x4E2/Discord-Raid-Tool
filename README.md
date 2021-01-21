@@ -17,8 +17,11 @@ With the help of [Anarchy-Wrapper](https://www.nuget.org/packages/Anarchy-wrappe
 
 # Installing packages:
 Here are all the packages you will need to install:
+<br>
 Anarchy-Wrapper 0.8.0.1
+<br>
 Newtonsoft.Json
+<br>
 System.IO.Compression
 
 # About the project:
