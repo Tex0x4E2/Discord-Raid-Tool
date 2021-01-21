@@ -15,14 +15,12 @@
 # How it Works.
 With the help of [Anarchy-Wrapper](https://www.nuget.org/packages/Anarchy-wrapper/) the program can control a lot of things in Discord and make almost everything possible.
 
-<br>
 # Installing packages:
 Here are all the packages you will need to install:
 Anarchy-Wrapper 0.8.0.1
 Newtonsoft.Json
 System.IO.Compression
 
-<br>
 # About the project:
 This project was created by Me, I left this project because I no longer have interest in it.
 So I decided to the public it and make it possible for everyone to learn or fix it.
