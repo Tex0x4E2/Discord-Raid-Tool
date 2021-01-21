@@ -11,6 +11,7 @@
 - [x] *Message Spammer.*
 - [x] *Discord Tokens Checker.*
 - [x] *Voice Spammer [Beta]*
+- [x] *Pretty nice GUI.*
                
 # How it Works.
 With the help of [Anarchy-Wrapper](https://www.nuget.org/packages/Anarchy-wrapper/) the program can control a lot of things in Discord and make almost everything possible.
